@@ -1,0 +1,1 @@
+console.log('Изменения в ветке devs в файле main.js')
